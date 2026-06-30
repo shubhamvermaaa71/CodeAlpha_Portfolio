@@ -154,7 +154,6 @@ section {
   overflow: hidden;
   position: relative; z-index: 1;
 }
-.avatar-img svg { width: 60%; height: 60%; opacity: .4; }
 
 .hero-greeting {
   font-family: var(--font-mono);
